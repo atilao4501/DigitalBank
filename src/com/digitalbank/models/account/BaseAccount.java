@@ -1,6 +1,7 @@
 package com.digitalbank.models.account;
 
 import com.digitalbank.interfaces.account.IAccount;
+import com.digitalbank.models.client.Client;
 
 public abstract class BaseAccount implements IAccount {
 

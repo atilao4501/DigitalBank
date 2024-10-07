@@ -1,7 +1,6 @@
 import com.digitalbank.interfaces.account.IAccount;
-import com.digitalbank.models.account.BaseAccount;
 import com.digitalbank.models.account.CheckingAccount;
-import com.digitalbank.models.account.Client;
+import com.digitalbank.models.client.Client;
 import com.digitalbank.models.account.SavingsAccount;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or

@@ -1,4 +1,4 @@
-package com.digitalbank.models.account;
+package com.digitalbank.models.client;
 
 public class Client {
     private String name;
